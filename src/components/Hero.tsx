@@ -13,7 +13,6 @@ export default function Hero(){
                 CHAT
             </div>
             <Chat/>
-            
         </div>
     )
 } 
