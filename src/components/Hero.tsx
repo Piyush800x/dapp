@@ -8,8 +8,8 @@ export const inter = Inter({
 
 export default function Hero(){
     return (
-        <div className={`${inter.className} flex`}>
-            <h1>Hello World</h1>
+        <div className={`${inter.className} flex bg-orange-50 w-full h-full`}>
+            
             <Chat/>
         </div>
     )
